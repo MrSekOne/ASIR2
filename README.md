@@ -17,4 +17,7 @@ Aquí estoy *haciendo* la práctica de la quincena 6 de la asignatura **Proyecto
 
 El protagonísta del mejor manga de la historia
 
-![Guts](/images/Guts.png)
+![Guts](/assets/img/Guts.png)
+
+
+[Enlace a mi portfolio](https://mrsekone.github.io/ASIR/)
