@@ -21,6 +21,3 @@ jobs:
         with:
           name: pdfs
           path: pdfs
-- name: Debug files
-  run: |
-    ls -R
